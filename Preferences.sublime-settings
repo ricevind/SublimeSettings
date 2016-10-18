@@ -1,0 +1,37 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"bold_folder_labels": false,
+	"caret_extra_width": 5,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Enki Theme/scheme/Enki-Alt.tmTheme",
+	"enki_theme_accent_red": true,
+	"enki_theme_compact_sidebar": true,
+	"enki_theme_panel_separator": true,
+	"enki_theme_small_statusbar": true,
+	"enki_theme_small_tab": true,
+	"enki_theme_tabs_autowidth": true,
+	"enki_theme_tree_headings": false,
+	"file_exclude_patterns":
+	[
+		"*.sublime-*",
+		".gitignore*"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Enki-Theme.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
